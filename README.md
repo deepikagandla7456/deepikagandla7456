@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Deepika Gandla
 ### 🎓 B.Tech Student in Computer Science and Engineering (Data Science)
-### 🤖 Aspiring Full-Stack AI Developer | 🎨 Tech Content Creation
+###  Aspiring Full-Stack AI Developer | Content Creation
 
 <img src="https://komarev.com/ghpvc/?username=deepikagandla7456&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Profile Views" />
 
@@ -13,7 +13,7 @@
 ---
 
 ### 📝 Profile Overview
-- 🔭 **Current Focus:** Final Year B.Tech student specializing in Data Science at Sreyas Institute.
+- 🔭 **Current Focus:** Upskilling
 - 💼 **Internship:** Data Science with GenAI Intern at Innomatics Research Labs.
 - 🧠 **AI Research:** Deeply interested in NLP, LLMs, and Prompt Engineering.
 - 🎬 **Creative Side:** Passionate about video editing and tech content creation.
@@ -51,6 +51,6 @@
 <a href="https://deepikagandla7456.pythonanywhere.com/"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/></a>
 </p>
 
-**Competitive Programming:** [HackerRank](https://www.hackerrank.com/profile/deepikagandla74) | [CodeChef](https://www.codechef.com/users/deepikagandla7)
+ [HackerRank](https://www.hackerrank.com/profile/deepikagandla74) | [CodeChef](https://www.codechef.com/users/deepikagandla7)
 
 </div>
