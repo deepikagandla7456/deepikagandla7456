@@ -10,6 +10,7 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20AI%20Solutions&fontSize=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Experimenting%20with%20AI%20to%20Build&fontSize=40&animation=fadeIn" width="100%" />
 
 ---
 
