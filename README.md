@@ -9,9 +9,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20AI%20Solutions&fontSize=40&animation=fadeIn" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Experimenting%20with%20AI%20to%20Build&fontSize=40&animation=fadeIn" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Learning%20and%20Experimenting%20with%20AI%20to%20Build%20What's%20Next&fontSize=32&animation=fadeIn" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffafbd,2196f3,00bcd4&height=250&section=header&text=Learning%20and%20Experimenting%20with%20AI%20to%20Build%20What's%20Next&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 ---
@@ -46,7 +43,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/deepikagandla7456"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
 <a href="https://linktr.ee/deepikagandla7456"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="30"/></a>
-<a href="https://deepikagandla7456.pythonanywhere.com/"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/></a>
+<a href="https://deepikagandla7456.pythonanywhere.com/"><img src="https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/></a>
 </p>
 
  [HackerRank](https://www.hackerrank.com/profile/deepikagandla74) | [CodeChef](https://www.codechef.com/users/deepikagandla7)
