@@ -41,6 +41,52 @@
 ![Snake animation](https://raw.githubusercontent.com/deepikagandla7456/deepikagandla7456/output/github-contribution-grid-snake.svg)
 
 ---
+In GitHub, Achievements and the Activity Graph are two different things. Here is a clear explanation of both and how to get them:
+
+1. What are Achievements?
+
+Looking at Yogesh's profile, the Achievements are the small badges on the left sidebar (like the shark, the cat, and the gold medal).
+
+How to get them: You cannot "code" these. GitHub awards them to you automatically when you perform certain actions.
+
+Pull Shark: Merging Pull Requests.
+
+Quickdraw: Closing an issue or PR within minutes of opening it.
+
+YOLO: Merging a Pull Request without a review.
+
+Arctic Code Vault: Having code in a repository that was part of GitHub's 2020 archive.
+
+How to show them: They will appear on your left sidebar automatically as soon as you earn them.
+
+2. How to include the Radar Graph (Activity Overview)
+
+The graph you see in Yogesh's profile that shows "Commits, Pull Requests, Issues, and Code Reviews" is called an Activity Overview Radar Chart.
+
+To include this exact graph in your profile, copy and paste this code into your README.md file:
+
+code
+Markdown
+download
+content_copy
+expand_less
+### 📊 Activity Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepikagandla7456&theme=tokyonight" width="100%" />
+</p>
+3. How to include the "Top Contributed Repo" Grid
+
+Yogesh also has a green grid specifically for one repository. This is usually done using a tool called GitHub Readme Streak Stats or a specific repository contribution tracker.
+
+However, for a student profile, the Radar Chart (provided above) is much more professional because it shows that you are a "Balanced Developer" who doesn't just write code, but also participates in discussions and reviews.
+
+Final "Placement Pro" Tip:
+
+Recruiters love the Radar Chart because it proves you are active in all areas of development.
+
+Where to put it: Place the code I gave you right above your "GitHub Stats" and "Top Languages" section. It will create a professional "Dashboard" look that managers find very impressive during hiring.
+
+Note: If the graph appears as a broken image for the first few minutes, don't worry. The server is simply generating the chart for the first time. Refresh after 5 minutes and it will be there!
 
 ### 🔗 Let's Connect
 <p align="center">
