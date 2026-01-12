@@ -11,6 +11,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20AI%20Solutions&fontSize=40&animation=fadeIn" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Experimenting%20with%20AI%20to%20Build&fontSize=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Learning%20and%20Experimenting%20with%20AI%20to%20Build%20What's%20Next&fontSize=32&animation=fadeIn" width="100%" />
 
 ---
 
