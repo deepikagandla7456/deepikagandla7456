@@ -19,7 +19,7 @@
 <i><b>Internship:</b></i> Data Science with GenAI Intern at Innomatics Research Labs.<br>
 <i><b>AI Research:</b></i> Deeply interested in experimenting with AI tools, LLMs, and Prompt Engineering.<br>
 <i><b>Knows:</b></i> Video editing.<br>
-<i><b>Contact:</b></i> <a href="mailto:deepikagandla7456@gmail.com">deepikagandla7456@gmail.com</a>
+<i><b>Learning Right Now:</b></i> Building production-ready AI applications
 </p>
 
 ---
