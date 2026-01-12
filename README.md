@@ -38,14 +38,37 @@
 ![Snake animation](https://raw.githubusercontent.com/deepikagandla7456/deepikagandla7456/output/github-contribution-grid-snake.svg)
 
 
+ ## <i> 🔗 Let's Connect & Collaborate </i>
 
-### <i> 🔗 Let's Connect</i>
+<div align="center">
+
+I'm always open to interesting conversations, collaborations, and opportunities!
+
+### <i> Best Ways to Reach Me </i>
+
 <p align="center">
-<a href="https://linkedin.com/in/deepikagandla7456"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-<a href="https://linktr.ee/deepikagandla7456"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="30"/></a>
-<a href="https://deepikagandla7456.pythonanywhere.com/"><img src="https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/></a>
+<a href="mailto:deepikagandla7456@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+</a>
+<a href="https://linkedin.com/in/deepikagandla7456">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+</a>
+<a href="https://linktr.ee/deepikagandla7456">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="35"/>
 </p>
 
- [HackerRank](https://www.hackerrank.com/profile/deepikagandla74) | [CodeChef](https://www.codechef.com/users/deepikagandla7)
+###  Coding Profiles
+
+<p align="center">
+<a href="https://www.hackerrank.com/profile/deepikagandla74">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="32"/>
+</a>
+<a href="https://www.codechef.com/users/deepikagandla7">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="32"/>
+</a>
+<a href="https://leetcode.com/deepikagandla7456">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="32"/>
+</a>
+</p>
 
 </div>
