@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffafbd,2196f3,00bcd4&height=250&section=header&text=Learning%20and%20Experimenting%20with%20AI%20to%20Build%20What's%20Next&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Learning%20and%20Experimenting%20with%20AI%20to%20Build%20What's%20Next&fontSize=29&fontAlign=50&stroke=BLUE&section=header&reversal=false&fontColor=1&animation=twinkling&strokeWidth=5" width="100%"/>
 
 ---
 
