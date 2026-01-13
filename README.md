@@ -72,18 +72,4 @@ I'm always open to interesting conversations, collaborations, and opportunities!
 </a>
 </p>
 
-### 📊 My GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepikagandla7456&show_icons=true&theme=radical" alt="Deepika's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikagandla7456&layout=compact&theme=radical" alt="Deepika's Top Languages" width="45%" />
-</p>
-
-### 📊 My GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepikagandla7456&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikagandla7456&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
 </div>
