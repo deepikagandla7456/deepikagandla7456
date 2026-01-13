@@ -1,11 +1,12 @@
-<div align="center">
-
+<div align='center'>
+  
 #  Hey, I'm Deepika Gandla
-### 🎓 Final Year B.Tech Student in Computer Science and Engineering (Data Science)
+### Final Year B.Tech Student in Computer Science and Engineering (Data Science)🎓
 ### <i> Aspiring Full-Stack AI Developer | Content Creation | Documenting My Journey </i>
+</div>
 
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=deepikagandla7456&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Profile Views" />
-
 
 <br/>
 
@@ -24,7 +25,7 @@
 
 ---
 
-### <i> Tech Stack & Skills </i>
+### <i> Tech Stack </i>
 <p align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/EDA-Data%20Analysis-20beff?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/ML-Machine%20Learning-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
