@@ -35,11 +35,15 @@
 ![Snake animation](https://raw.githubusercontent.com/deepikagandla7456/deepikagandla7456/output/github-contribution-grid-snake.svg)
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
+
+<div align="center">
+  
 ![](https://github-readme-stats.shion.dev/api?username=deepikagandla7456&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=deepikagandla7456&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepikagandla7456&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 
  ## <i> 🔗 Let's Connect & Collaborate </i>
 
