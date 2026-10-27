@@ -1,7 +1,7 @@
 <div align='center'>
   
 #  Hey, I'm Deepika Gandla
-### Final Year B.Tech Student in Computer Science and Engineering (Data Science)🎓
+### Grad' 26🎓
 ### <i> Aspiring Full-Stack AI Developer | Content Creation | Documenting My Journey </i>
 </div>
 
