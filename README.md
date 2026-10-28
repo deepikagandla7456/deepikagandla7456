@@ -17,7 +17,7 @@
 ### <i> Profile Overview </i>
 <p align="left">
 <i><b>Current Focus:</b></i> Upskilling in Full-Stack AI Engineering and Data Science.<br>
-<i><b>Internship:</b></i> Data Science with GenAI Intern at Innomatics Research Labs.<br>
+<i><b>Internship:</b></i> Ex-Data Science with GenAI Intern at Innomatics Research Labs.<br>
 <i><b>AI Research:</b></i> Deeply interested in experimenting with AI tools, LLMs, and Prompt Engineering.<br>
 <i><b>Knows:</b></i> Frontend Development & AI Integration.<br>
 <i><b>Learning Right Now:</b></i> Building production-ready AI applications
